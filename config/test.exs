@@ -2,7 +2,7 @@ use Mix.Config
 
 # Configure your database
 config :alchemist_chat, AlchemistChat.Repo,
-  username: "postgres",
+  username: "dan",
   password: "postgres",
   database: "alchemist_chat_test",
   hostname: "localhost",
